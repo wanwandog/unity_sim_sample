@@ -12,15 +12,30 @@ EditorBuildSettings:
     path: Assets/Scenes/Main.unity
     guid: a1e05aa17dce41d45a281b2a879a67f4
   - enabled: 1
-    path: Assets/Scenes/Class.unity
-    guid: b1c61fd676b889748a95b68c417a5c5a
+    path: Assets/Scenes/Home/LevelUp.unity
+    guid: 5463b067ed141c14482248dcfdedb924
   - enabled: 1
-    path: Assets/Scenes/Job.unity
-    guid: 854554da748f57f45928ef548888d3be
-  - enabled: 1
-    path: Assets/Scenes/Friend.unity
-    guid: bdbc7d8e12659ec4ba041501362bb75a
-  - enabled: 1
-    path: Assets/Scenes/Ending.unity
+    path: Assets/Scenes/Home/Ending.unity
     guid: 68c77703eed10a244896d984c4650389
+  - enabled: 1
+    path: Assets/Scenes/Home/Option.unity
+    guid: c4e2011d5c6ae8046a289d50e43064b8
+  - enabled: 1
+    path: Assets/Scenes/Class/Test.unity
+    guid: 20da3c89af9281f409d0dd8778a97100
+  - enabled: 1
+    path: Assets/Scenes/Action/Circle.unity
+    guid: b7f85d5577d883c48a92a1c954f20e7a
+  - enabled: 1
+    path: Assets/Scenes/Action/Girl.unity
+    guid: 0b8ab16e7144b464294817681db636eb
+  - enabled: 1
+    path: Assets/Scenes/Action/GPA.unity
+    guid: 674a680f33dc52a458313f87acfcf1e5
+  - enabled: 1
+    path: Assets/Scenes/Action/Job.unity
+    guid: 74338ca95bc7f1844a65ec966412097f
+  - enabled: 1
+    path: Assets/Scenes/Action/Shop.unity
+    guid: 59c9b2c41401652438c7b73838820960
   m_configObjects: {}
